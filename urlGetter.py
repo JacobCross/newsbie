@@ -4,10 +4,10 @@ import urllib
 import json
 import sys
 
-#news_domain = "http://cnn.com"
+news_domain = "http://cnn.com"
 #news_domain = "http://www.wired.com/"
 #news_domain = "https://techcrunch.com/"
-news_domain = "http://www.nytimes.com/"
+#news_domain = "http://www.nytimes.com/"
 #news_domain = "http://www.sfgate.com/"
 #news_domain = "http://www.ap.org/"
 
